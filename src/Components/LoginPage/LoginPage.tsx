@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import React from 'react';
 import googleImage from '../../assets/googleImage.png';
 import styles from './LoginPage.module.css';
 
